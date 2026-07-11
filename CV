@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CV</title>
+</head>
+<body>
+<center>
+<h1>Najia Nadeem</h1>
+<h2><a href="https://shorturl.at/VW930"><b>Address</b></a></h2>
+<h3><b>Mobile:03349279461 &nbsp &nbsp &nbsp Email:najianadeem20@gmail.com</b></h3></center>
+<h4>personal profile:</h4>
+<hr>
+<p> I am Computer Science student with 6 semesters completed. Strong interest in Artificial Intelligence, software development, and C++. Dedicated, hardworking, and looking to apply my academic knowledge to practical projects and gain hands-on experience.</p>
+<h4>Achievements:</h4>
+<hr>
+<ul>
+<li>I am a BSCS student and I have completed my 6th semester. </li>
+<li> 
+I built an Event Planning website where you can create events and manage guests.  </li>
+<li>
+I also made a Diabetes Health Management System in Python with patient info and health tracking features.</li>
+<li>  
+I really enjoy coding and problem solving.
+</li></ul>
+<h4>Education:</h4>
+<hr>
+<ul>
+<li>BS Computer Science (In Progress)
+Government College University Faisalabad, Chiniot Campus</li>
+<li>
+Intermediate (FSc)
+Nusrat Jahan College</li>
+<li>
+Matriculation
+Maryam Sadiqa School</li></ul>
+</body>
+</html>
