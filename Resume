@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Table</title>
+</head>
+<body>
+<div>
+<p style="width:500px;height:50px;border:2px solid black;font-size:30px;margin:2px;">
+<b>Jane Franklin</b>
+</p>
+</div>
+<div>
+<p style="width:500px;height:30px;border:2px solid black;font-size:20px;margin:2px;">
+Douglas-kelly professor of English
+</p>
+</div>
+<div style="display:inline-block;vertical-align:top;">
+<p style="width:500px;height:30px;border:2px solid black;font-size:20px;margin:2px;">
+<b>Address</b>
+</p>
+</div>
+<div style="display:inline-block;vertical-align:top;">
+<p style="width:500px;height:30px;border:2px solid black;margin:1px;">
+<b>linkedin</b> linkedin.com/in/Jane-marie-fraklin 
+</p>
+</div>
+<div>
+<div style="display:inline-block;vertical-align:top;">
+<p style="width:500px;height:30px;border:2px solid black;font-size:20px;margin:2px;">
+<b>University of pennsylvania</b>
+</p>
+</div>
+<div style="display:inline-block;vertical-align:top;">
+<p style="width:500px;height:30px;border:2px solid black;margin:1px;">
+<b>Twitter</b>
+twitter.com/Jane-marie-fraklin
+</p>
+</div>
+<div>
+<p style="width:500px;height:30px;border:2px solid black;font-size:20px;margin:2px;">
+Philadephia,PA 19123,USA
+</p>
+</div>
+<div>
+<p style="width:500px;height:30px;border:2px solid black;font-size:20px;margin:2px;">
+Home Address:
+</p>
+</div>
+<div>
+<p style="width:500px;height:30px;border:2px solid black;font-size:20px;margin:2px;">
+713 N 4th St Philadelpia PA 19123 USA 
+</p>
+</div>
+<div>
+<p style="width:500px;height:30px;border:2px solid black;font-size:20px;margin:2px;">
+<b>Phone</b>
+267-861-5317
+</p>
+</div>
+<div>
+<p style="width:500px;height:30px;border:2px solid black;font-size:20px;margin:2px;">
+<b>E-Mail</b>
+jane_franklin@gmail.com
+</p>
+</div>
+<div>
+<p style="width:500px;height:140px;border:2px solid black;font-size:20px;margin:2px;">
+Proactive lecturer and researcher with 10+ years of experience teaching courses on undergraduate and postgraduate levels. Supervised 22BA Theses 9 MA theses and 2PHD dissertation.Edited and co-authored 3 monograph on contemporary trends in drama and performative arts.Published over 30 articles in peer-reviewed journals.
+</p>
+</div>
+<div>
+<p style="width:500px;height:30px;border:2px solid black;font-size:20px;margin:2px;">
+<b>Education</b>
+</p>
+</div>
+<div>
+<div style="display:inline-block;vertical-align:top;">
+<p style="width:500px;height:200px;border:2px solid black;font-size:20px;margin:2px;line-height:0.8;">
+</p>
+</div>
+<div style="display:inline-block;vertical-align:top;">
+<p style="width:500px;height:200px;border:2px solid black;margin:0px;line-height:0.8;">
+<b>University of Chicago,Chicago,IL,PhD in comparative
+<br></br>
+ Literature 
+<br></br>
+The Department of Modern Language
+<br></br>
+Thesis title:</b>
+"The Lesbianism of Marcel Prousl.An Analysis of the Traits of Female Queer Culture is In Search of Lost Time"
+<br></br>
+<b>Thesis supervisor:</b>
+Professor George Swan
+</p>
+</div>
+</body>
+</html>
